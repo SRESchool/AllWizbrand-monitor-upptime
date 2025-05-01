@@ -56,6 +56,11 @@ sites:
     check: "tcp-ping"
     ipv6: true
 
-    notifications:
+   notifications:
   - type: email
-    recipient: contact@motoshare.in
+    smtpHost: smtp.gmail.com
+    smtpPort: 587
+    smtpUsername: contact@motoshare.in
+    smtpPassword: rbcx sihi gquh ljts 
+    smtpFrom: contact@motoshare.in
+    smtpTo: contact@motoshare.in
