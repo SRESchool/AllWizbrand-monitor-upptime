@@ -4,30 +4,24 @@ user-agent: SRESchool
 skipReadme: true
 skipDescriptionUpdate: true
 skipTopicsUpdate: true
-commitMessages:
-  commitAuthorName: "SRESchool Bot"
-  commitAuthorEmail: "bot@sreschool.com"
-  readme: "docs: update README.md [skip ci]"
-  history: "docs: update history [skip ci]"
-  graphs: "docs: update graphs [skip ci]"
-  summary: "docs: update summary [skip ci]"
-  status: "docs: update status of ${name} to ${status} [skip ci]"
-  responseTime: "docs: update response time of ${name} [skip ci]"
-  issue: "${name} is ${status} 🟥"
+
 assignees:
   - SRESchool
+
 status-website:
   cname: null
   logoUrl: https://raw.githubusercontent.com/upptime/upptime/master/assets/icon.svg
   name: Wizbrand Uptime Monitor
   introTitle: "Wizbrand Websites Uptime and SSL Status"
   introMessage: This is a status page monitoring the uptime and SSL certificates of Wizbrand-related websites.
+  
   navbar:
     - title: Status
       href: /
     - title: GitHub
       href: https://github.com/SRESchool/AllWizbrand-monitor-upptime
   baseUrl: /
+
 workflowSchedule:
   graphs: "*/5 * * * *"
   responseTime: "*/5 * * * *"
