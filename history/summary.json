@@ -4,19 +4,19 @@
     "url": "https://airegistry.co",
     "icon": "https://icons.duckduckgo.com/ip3/airegistry.co.ico",
     "slug": "ai-registry",
-    "status": "down",
-    "uptime": "96.50%",
-    "uptimeDay": "96.50%",
-    "uptimeWeek": "96.50%",
-    "uptimeMonth": "96.50%",
-    "uptimeYear": "96.50%",
-    "time": 304,
-    "timeDay": 304,
-    "timeWeek": 304,
-    "timeMonth": 304,
-    "timeYear": 304,
+    "status": "up",
+    "uptime": "96.06%",
+    "uptimeDay": "96.06%",
+    "uptimeWeek": "96.06%",
+    "uptimeMonth": "96.06%",
+    "uptimeYear": "96.06%",
+    "time": 303,
+    "timeDay": 303,
+    "timeWeek": 303,
+    "timeMonth": 303,
+    "timeYear": 303,
     "dailyMinutesDown": {
-      "2025-05-01": 5
+      "2025-05-01": 6
     }
   },
   {
@@ -36,7 +36,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-05-01": 153
+      "2025-05-01": 154
     }
   },
   {
@@ -56,7 +56,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-05-01": 153
+      "2025-05-01": 154
     }
   },
   {
@@ -64,19 +64,19 @@
     "url": "https://gurukulgalaxy.com",
     "icon": "https://icons.duckduckgo.com/ip3/gurukulgalaxy.com.ico",
     "slug": "gurukul-galaxy",
-    "status": "down",
-    "uptime": "96.87%",
-    "uptimeDay": "96.87%",
-    "uptimeWeek": "96.87%",
-    "uptimeMonth": "96.87%",
-    "uptimeYear": "96.87%",
-    "time": 770,
-    "timeDay": 770,
-    "timeWeek": 770,
-    "timeMonth": 770,
-    "timeYear": 770,
+    "status": "up",
+    "uptime": "96.39%",
+    "uptimeDay": "96.39%",
+    "uptimeWeek": "96.39%",
+    "uptimeMonth": "96.39%",
+    "uptimeYear": "96.39%",
+    "time": 772,
+    "timeDay": 772,
+    "timeWeek": 772,
+    "timeMonth": 772,
+    "timeYear": 772,
     "dailyMinutesDown": {
-      "2025-05-01": 5
+      "2025-05-01": 6
     }
   },
   {
@@ -85,11 +85,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/cmsgalaxy.com.ico",
     "slug": "cms-galaxy",
     "status": "down",
-    "uptime": "31.70%",
-    "uptimeDay": "31.70%",
-    "uptimeWeek": "31.70%",
-    "uptimeMonth": "31.70%",
-    "uptimeYear": "31.70%",
+    "uptime": "31.54%",
+    "uptimeDay": "31.54%",
+    "uptimeWeek": "31.54%",
+    "uptimeMonth": "31.54%",
+    "uptimeYear": "31.54%",
     "time": 638,
     "timeDay": 638,
     "timeWeek": 638,
