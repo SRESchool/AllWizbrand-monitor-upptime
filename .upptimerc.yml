@@ -5,8 +5,8 @@ skipReadme: true
 skipDescriptionUpdate: true
 skipTopicsUpdate: true
 commitMessages:
-  commitAuthorName: "SRESchool"
-  commitAuthorEmail: "contact@motoshare.in"
+  commitAuthorName: "SRESchool Bot"
+  commitAuthorEmail: "bot@sreschool.com"
   readme: "docs: update README.md [skip ci]"
   history: "docs: update history [skip ci]"
   graphs: "docs: update graphs [skip ci]"
