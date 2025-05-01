@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 263,
-    "timeDay": 263,
-    "timeWeek": 263,
-    "timeMonth": 263,
-    "timeYear": 263,
+    "time": 278,
+    "timeDay": 278,
+    "timeWeek": 278,
+    "timeMonth": 278,
+    "timeYear": 278,
     "dailyMinutesDown": {}
   },
   {
@@ -22,26 +22,6 @@
     "url": "https://guestpostai.com",
     "icon": "https://icons.duckduckgo.com/ip3/guestpostai.com.ico",
     "slug": "guest-post-ai",
-    "status": "down",
-    "uptime": "0.03%",
-    "uptimeDay": "0.03%",
-    "uptimeWeek": "0.03%",
-    "uptimeMonth": "0.03%",
-    "uptimeYear": "0.03%",
-    "time": 0,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 0,
-    "timeYear": 0,
-    "dailyMinutesDown": {
-      "2025-05-01": 90
-    }
-  },
-  {
-    "name": "Wizbrand",
-    "url": "https://wizbrand.com",
-    "icon": "https://icons.duckduckgo.com/ip3/wizbrand.com.ico",
-    "slug": "wizbrand",
     "status": "down",
     "uptime": "0.02%",
     "uptimeDay": "0.02%",
@@ -54,7 +34,27 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-05-01": 90
+      "2025-05-01": 102
+    }
+  },
+  {
+    "name": "Wizbrand",
+    "url": "https://wizbrand.com",
+    "icon": "https://icons.duckduckgo.com/ip3/wizbrand.com.ico",
+    "slug": "wizbrand",
+    "status": "down",
+    "uptime": "0.01%",
+    "uptimeDay": "0.01%",
+    "uptimeWeek": "0.01%",
+    "uptimeMonth": "0.01%",
+    "uptimeYear": "0.01%",
+    "time": 0,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 0,
+    "timeYear": 0,
+    "dailyMinutesDown": {
+      "2025-05-01": 102
     }
   },
   {
@@ -68,11 +68,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 744,
-    "timeDay": 744,
-    "timeWeek": 744,
-    "timeMonth": 744,
-    "timeYear": 744,
+    "time": 745,
+    "timeDay": 745,
+    "timeWeek": 745,
+    "timeMonth": 745,
+    "timeYear": 745,
     "dailyMinutesDown": {}
   },
   {
@@ -81,18 +81,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/cmsgalaxy.com.ico",
     "slug": "cms-galaxy",
     "status": "down",
-    "uptime": "54.25%",
-    "uptimeDay": "54.25%",
-    "uptimeWeek": "54.25%",
-    "uptimeMonth": "54.25%",
-    "uptimeYear": "54.25%",
+    "uptime": "47.74%",
+    "uptimeDay": "47.74%",
+    "uptimeWeek": "47.74%",
+    "uptimeMonth": "47.74%",
+    "uptimeYear": "47.74%",
     "time": 638,
     "timeDay": 638,
     "timeWeek": 638,
     "timeMonth": 638,
     "timeYear": 638,
     "dailyMinutesDown": {
-      "2025-05-01": 41
+      "2025-05-01": 53
     }
   }
 ]
