@@ -55,3 +55,7 @@ sites:
       port: 80
     check: "tcp-ping"
     ipv6: true
+
+    notifications:
+  - type: email
+    recipient: contact@motoshare.in
