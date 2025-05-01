@@ -10,6 +10,7 @@ assignees:
 
 status-website:
   cname: null
+  baseUrl: /AllWizbrand-monitor-upptime
   logoUrl: https://raw.githubusercontent.com/upptime/upptime/master/assets/icon.svg
   name: Wizbrand Uptime Monitor
   introTitle: "Wizbrand Websites Uptime and SSL Status"
@@ -19,8 +20,8 @@ status-website:
     - title: Status
       href: /
     - title: GitHub
-      href: https://github.com/SRESchool/AllWizbrand-monitor-upptime
-  baseUrl: /
+      href: https://github.com/$OWNER/$REPO
+ 
 
 workflowSchedule:
   graphs: "*/5 * * * *"
