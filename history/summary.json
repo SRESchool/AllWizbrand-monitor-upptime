@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 310,
-    "timeDay": 310,
-    "timeWeek": 310,
-    "timeMonth": 310,
-    "timeYear": 310,
+    "time": 311,
+    "timeDay": 311,
+    "timeWeek": 311,
+    "timeMonth": 311,
+    "timeYear": 311,
     "dailyMinutesDown": {}
   },
   {
@@ -34,7 +34,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-05-01": 283
+      "2025-05-01": 341
     }
   },
   {
@@ -43,18 +43,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/wizbrand.com.ico",
     "slug": "wizbrand",
     "status": "down",
-    "uptime": "0.01%",
-    "uptimeDay": "0.01%",
-    "uptimeWeek": "0.01%",
-    "uptimeMonth": "0.01%",
-    "uptimeYear": "0.01%",
+    "uptime": "0.00%",
+    "uptimeDay": "0.00%",
+    "uptimeWeek": "0.00%",
+    "uptimeMonth": "0.00%",
+    "uptimeYear": "0.00%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-05-01": 283
+      "2025-05-01": 341
     }
   },
   {
@@ -68,11 +68,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 842,
-    "timeDay": 842,
-    "timeWeek": 842,
-    "timeMonth": 842,
-    "timeYear": 842,
+    "time": 838,
+    "timeDay": 838,
+    "timeWeek": 838,
+    "timeMonth": 838,
+    "timeYear": 838,
     "dailyMinutesDown": {}
   },
   {
@@ -81,18 +81,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/cmsgalaxy.com.ico",
     "slug": "cms-galaxy",
     "status": "down",
-    "uptime": "17.18%",
-    "uptimeDay": "17.18%",
-    "uptimeWeek": "17.18%",
-    "uptimeMonth": "17.18%",
-    "uptimeYear": "17.18%",
+    "uptime": "14.25%",
+    "uptimeDay": "14.25%",
+    "uptimeWeek": "14.25%",
+    "uptimeMonth": "14.25%",
+    "uptimeYear": "14.25%",
     "time": 638,
     "timeDay": 638,
     "timeWeek": 638,
     "timeMonth": 638,
     "timeYear": 638,
     "dailyMinutesDown": {
-      "2025-05-01": 234
+      "2025-05-01": 292
     }
   }
 ]
