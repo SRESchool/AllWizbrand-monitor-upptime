@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 299,
-    "timeDay": 299,
-    "timeWeek": 299,
-    "timeMonth": 299,
-    "timeYear": 299,
+    "time": 302,
+    "timeDay": 302,
+    "timeWeek": 302,
+    "timeMonth": 302,
+    "timeYear": 302,
     "dailyMinutesDown": {}
   },
   {
@@ -34,7 +34,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-05-01": 163
+      "2025-05-01": 172
     }
   },
   {
@@ -54,7 +54,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-05-01": 163
+      "2025-05-01": 172
     }
   },
   {
@@ -68,11 +68,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 793,
-    "timeDay": 793,
-    "timeWeek": 793,
-    "timeMonth": 793,
-    "timeYear": 793,
+    "time": 826,
+    "timeDay": 826,
+    "timeWeek": 826,
+    "timeMonth": 826,
+    "timeYear": 826,
     "dailyMinutesDown": {}
   },
   {
@@ -81,18 +81,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/cmsgalaxy.com.ico",
     "slug": "cms-galaxy",
     "status": "down",
-    "uptime": "29.84%",
-    "uptimeDay": "29.84%",
-    "uptimeWeek": "29.84%",
-    "uptimeMonth": "29.84%",
-    "uptimeYear": "29.84%",
+    "uptime": "28.19%",
+    "uptimeDay": "28.19%",
+    "uptimeWeek": "28.19%",
+    "uptimeMonth": "28.19%",
+    "uptimeYear": "28.19%",
     "time": 638,
     "timeDay": 638,
     "timeWeek": 638,
     "timeMonth": 638,
     "timeYear": 638,
     "dailyMinutesDown": {
-      "2025-05-01": 114
+      "2025-05-01": 124
     }
   }
 ]
