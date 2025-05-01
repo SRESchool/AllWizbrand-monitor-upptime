@@ -51,3 +51,6 @@ sites:
     url: https://cmsgalaxy.com
     ssl:
       enabled: true
+      port: 80
+    check: "tcp-ping"
+    ipv6: true
