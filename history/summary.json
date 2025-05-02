@@ -34,7 +34,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-05-02": 312,
+      "2025-05-02": 334,
       "2025-05-01": 893
     }
   },
@@ -55,7 +55,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-05-02": 312,
+      "2025-05-02": 334,
       "2025-05-01": 893
     }
   },
@@ -83,18 +83,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/cmsgalaxy.com.ico",
     "slug": "cms-galaxy",
     "status": "down",
-    "uptime": "4.03%",
-    "uptimeDay": "4.03%",
-    "uptimeWeek": "4.03%",
-    "uptimeMonth": "4.03%",
-    "uptimeYear": "4.03%",
+    "uptime": "3.96%",
+    "uptimeDay": "3.96%",
+    "uptimeWeek": "3.96%",
+    "uptimeMonth": "3.96%",
+    "uptimeYear": "3.96%",
     "time": 638,
     "timeDay": 638,
     "timeWeek": 638,
     "timeMonth": 638,
     "timeYear": 638,
     "dailyMinutesDown": {
-      "2025-05-02": 312,
+      "2025-05-02": 334,
       "2025-05-01": 845
     }
   }
