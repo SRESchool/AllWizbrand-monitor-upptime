@@ -11,7 +11,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 301,
-    "timeDay": 302,
+    "timeDay": 300,
     "timeWeek": 301,
     "timeMonth": 301,
     "timeYear": 301,
@@ -34,7 +34,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-05-03": 354,
+      "2025-05-03": 377,
       "2025-05-02": 1440,
       "2025-05-01": 893
     }
@@ -56,7 +56,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-05-03": 354,
+      "2025-05-03": 377,
       "2025-05-02": 1440,
       "2025-05-01": 893
     }
@@ -67,13 +67,13 @@
     "icon": "https://icons.duckduckgo.com/ip3/gurukulgalaxy.com.ico",
     "slug": "gurukul-galaxy",
     "status": "up",
-    "uptime": "98.31%",
+    "uptime": "98.32%",
     "uptimeDay": "96.84%",
-    "uptimeWeek": "98.31%",
-    "uptimeMonth": "98.31%",
-    "uptimeYear": "98.31%",
+    "uptimeWeek": "98.32%",
+    "uptimeMonth": "98.32%",
+    "uptimeYear": "98.32%",
     "time": 823,
-    "timeDay": 829,
+    "timeDay": 830,
     "timeWeek": 823,
     "timeMonth": 823,
     "timeYear": 823,
@@ -87,18 +87,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/cmsgalaxy.com.ico",
     "slug": "cms-galaxy",
     "status": "down",
-    "uptime": "1.81%",
+    "uptime": "1.79%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "1.81%",
-    "uptimeMonth": "1.81%",
-    "uptimeYear": "1.81%",
+    "uptimeWeek": "1.79%",
+    "uptimeMonth": "1.79%",
+    "uptimeYear": "1.79%",
     "time": 638,
     "timeDay": 0,
     "timeWeek": 638,
     "timeMonth": 638,
     "timeYear": 638,
     "dailyMinutesDown": {
-      "2025-05-03": 354,
+      "2025-05-03": 377,
       "2025-05-02": 1440,
       "2025-05-01": 845
     }
